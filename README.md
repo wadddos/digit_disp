@@ -1,1 +1,1 @@
-# digit_disp
+Digital indication
